@@ -71,5 +71,11 @@
 
 ### Malware
 
-1. [MAlware](http://svel.to/nfp) / [Test Malware](http://svel.to/nfq)
+1. [MAlware](https://docs.google.com/presentation/d/1INituoBAeOTqraXvQPCPSXxX4xGFc28DCTxjCrXk6ok/edit?usp=sharing) / [Test Malware](http://svel.to/nfq)
 3. [AJAX](http://svel.to/nfr)
+
+### AJAX CRUD
+1. [CRUD](https://docs.google.com/presentation/d/1v2s5C8IoiJ9H3eXCSorNqySpIS7nXsDrDe-6PUJP3IU/edit?usp=sharing)
+2. [AJAX](https://docs.google.com/presentation/d/1omO5RyRFNhro4dQ1tiqCn1fWrGJ0WH6Bye1JuI2_rdE/edit?usp=sharing) 
+3. [TEST - AJAX & CRUD](https://docs.google.com/forms/d/1kYZvM5KEp9_iIzZIBM96Vo6qda5_mhAO2tQ9FIhuQ0Y/prefill)
+4. [02_Practice Video - DBMS & WP](https://www.youtube.com/playlist?list=PLbejvFLz_IAAGlt6KScQCPPoNuaLJbkgd)
