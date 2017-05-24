@@ -77,12 +77,12 @@
 ### AJAX CRUD
 1. [CRUD](https://docs.google.com/presentation/d/1v2s5C8IoiJ9H3eXCSorNqySpIS7nXsDrDe-6PUJP3IU/edit?usp=sharing)
 2. [AJAX](https://docs.google.com/presentation/d/1omO5RyRFNhro4dQ1tiqCn1fWrGJ0WH6Bye1JuI2_rdE/edit?usp=sharing) 
-3. [TEST - AJAX & CRUD](https://docs.google.com/forms/d/1kYZvM5KEp9_iIzZIBM96Vo6qda5_mhAO2tQ9FIhuQ0Y/prefill)
+3. [TEST - AJAX & CRUD](http://svel.to/nkj)
 4. [02_Practice Video - DBMS & WP](https://www.youtube.com/playlist?list=PLbejvFLz_IAAGlt6KScQCPPoNuaLJbkgd)
 
 
 ### HL7/DICOM and Load balancing
 1. [HL7](http://svel.to/njw)
-2. [HL7 - test](https://docs.google.com/forms/d/1s5bzrBm8WMuCUxi9AhxIL7r51kTKkA9qirJZlH4skuw/prefill)
+2. [HL7 - test](http://svel.to/nki)
 3. [Load balancing](https://docs.google.com/presentation/d/1OpKtiIT-c6nyOiczn8viuN9ufUZ_spTwln3ejeSwZls/edit?usp=sharing)
 4. [Load balancing - test](http://svel.to/njj)
