@@ -68,4 +68,5 @@
 2. [DNS - test](http://svel.to/nkh)
 3. [FORM](http://svel.to/nkd)
 4. [FORM - test]( http://svel.to/nkf)
-5. [WordPress](http://svel.to/nkc)
+5. [WordPress](http://svel.to/nl9)
+6. [03_Practice Video - WP Forms](http://svel.to/nlb)
