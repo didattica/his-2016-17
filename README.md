@@ -58,7 +58,7 @@
 
 ### HL7/DICOM and Load balancing
 1. [HL7](http://svel.to/njw)
-2. [HL7 - test](http://svel.to/nki)
+2. [HL7 - test](https://docs.google.com/forms/d/e/1FAIpQLSeFjQRfyrJdnwS5vbn5_kXIq86Kx02yrReXIrUV7j6rLeTlmQ/viewform)
 3. [Load balancing](https://docs.google.com/presentation/d/1OpKtiIT-c6nyOiczn8viuN9ufUZ_spTwln3ejeSwZls/edit?usp=sharing)
 4. [Load balancing - test](http://svel.to/njj)
 
@@ -66,7 +66,7 @@
 ### DNS, FORM and WordPress
 1. [DNS](http://svel.to/nkb)
 2. [DNS - test](http://svel.to/nkh)
-3. [FORM](http://svel.to/nkd)
+3. [FORM](http://svel.to/nlw)
 4. [FORM - test]( http://svel.to/nkf)
 5. [WordPress](http://svel.to/nl9)
 6. [03_Practice Video - WP Forms](http://svel.to/nlb)
