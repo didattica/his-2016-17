@@ -58,15 +58,29 @@
 
 ### HL7/DICOM and Load balancing
 1. [HL7](http://svel.to/njw)
-2. [HL7 - test](https://docs.google.com/forms/d/e/1FAIpQLSeFjQRfyrJdnwS5vbn5_kXIq86Kx02yrReXIrUV7j6rLeTlmQ/viewform)
+2. [HL7 - TEST](https://docs.google.com/forms/d/e/1FAIpQLSeFjQRfyrJdnwS5vbn5_kXIq86Kx02yrReXIrUV7j6rLeTlmQ/viewform)
 3. [Load balancing](https://docs.google.com/presentation/d/1OpKtiIT-c6nyOiczn8viuN9ufUZ_spTwln3ejeSwZls/edit?usp=sharing)
-4. [Load balancing - test](http://svel.to/njj)
+4. [Load balancing - TEST](http://svel.to/njj)
 
 
 ### DNS, FORM and WordPress
 1. [DNS](http://svel.to/nkb)
-2. [DNS - test](http://svel.to/nkh)
+2. [DNS - TEST](http://svel.to/nkh)
 3. [FORM](http://svel.to/nlw)
-4. [FORM - test]( http://svel.to/nkf)
+4. [FORM - TEST]( http://svel.to/nkf)
 5. [WordPress](http://svel.to/nl9)
 6. [03_Practice Video - WP Forms](http://svel.to/nlb)
+
+### TESTS
+1. [Information System Introduction - TEST](https://goo.gl/forms/NmwBBuRsmf7MpxfW2)
+2. [Data Representation and Digital Encoding - TEST](http://svel.to/nbe)
+3. [Digital image - TEST](http://svel.to/ndz)
+4. [DBMS - TEST](http://svel.to/ndh)
+5. [EHR and CEN/TC 251 - TEST](http://svel.to/nec)
+6. [Introduction to RIS/PACS - TEST](http://svel.to/nf8)
+7. [Malware - TEST](http://svel.to/nfq)
+8. [AJAX & CRUD - TEST](http://svel.to/nkj)
+9. [HL7 - TEST](https://docs.google.com/forms/d/e/1FAIpQLSeFjQRfyrJdnwS5vbn5_kXIq86Kx02yrReXIrUV7j6rLeTlmQ/viewform)
+10. [Load balancing - TEST](http://svel.to/njj)
+11. [DNS - TEST](http://svel.to/nkh)
+12. [FORM - TEST]( http://svel.to/nkf)
