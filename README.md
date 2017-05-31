@@ -71,6 +71,9 @@
 5. [WordPress](http://svel.to/nl9)
 6. [03_Practice Video - WP Forms](http://svel.to/nlb)
 
+### WordPress
+[WordPress, Hands-on](http://svel.to/nmm)
+
 ### TESTS
 1. [Information System Introduction - TEST](https://goo.gl/forms/NmwBBuRsmf7MpxfW2)
 2. [Data Representation and Digital Encoding - TEST](http://svel.to/nbe)
@@ -84,3 +87,4 @@
 10. [Load balancing - TEST](http://svel.to/njj)
 11. [DNS - TEST](http://svel.to/nkh)
 12. [FORM - TEST]( http://svel.to/nkf)
+13. [Simulation Exam](http://svel.to/nml)
