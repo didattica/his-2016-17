@@ -88,3 +88,10 @@
 11. [DNS - TEST](http://svel.to/nkh)
 12. [FORM - TEST]( http://svel.to/nkf)
 13. [Simulation Exam](http://svel.to/nml)
+
+### Videos
+1. [GitHub](https://youtu.be/_k_SbHSu9BQ)
+2. [DBMS & WP](https://www.youtube.com/playlist?list=PLbejvFLz_IAAGlt6KScQCPPoNuaLJbkgd)
+3. [WP Forms](http://svel.to/nlb)
+4. [Input FileUpload Object with Ninja Form](https://www.youtube.com/playlist?list=PLbejvFLz_IADcQvvxF-M-A-X0QkWXjTdt)
+5. [Add a domain name to GearHost site](https://youtu.be/r8mRL5S2uRc)
