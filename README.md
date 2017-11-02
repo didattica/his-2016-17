@@ -95,3 +95,15 @@
 3. [WP Forms](http://svel.to/nlb)
 4. [Input FileUpload Object with Ninja Form](https://www.youtube.com/playlist?list=PLbejvFLz_IADcQvvxF-M-A-X0QkWXjTdt)
 5. [Add a domain name to GearHost site](https://youtu.be/r8mRL5S2uRc)
+
+### Students' Project
+
+1. [Annarosa Baldussi](http://wordpressanne.gear.host/)
+2. [Fabio Carucci](http://wpfab.gear.host/)
+3. [Ilaria Cuccu](http://wordpressila.gear.host/)
+4. [Roberta Fadda](http://wordpressrob.gear.host/)
+5. [Cristiana Foddis](http://wordpressc.gear.host/)
+6. [Silvia Mura](http://wordpressmura.gear.host/)
+7. [Marco Murru](http://wordpressmarc.gear.host/)
+8. [Bruna Musu](http://wordpressb.gear.host/)
+
