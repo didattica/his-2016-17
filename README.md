@@ -5,12 +5,12 @@
 <!--1. [Annarosa Baldussi](http://wordpressanne.gear.host/)
 2. [Fabio Carucci](http://wpfab.gear.host/)-->
 <ul>
-  <li>[Ilaria Cuccu](http://wordpressila.gear.host/)</li>
-  <li>[Roberta Fadda](http://wordpressrob.gear.host/)</li>
-  <li>[Cristiana Foddis](http://wordpressc.gear.host/)</li>
-  <li>[Silvia Mura](http://wordpressmura.gear.host/)</li>
-  <li>[Marco Murru](http://wordpressmarc.gear.host/)</li>
-  <li>[Bruna Musu](http://wordpressb.gear.host/)</li>
+  <li><a href="http://wordpressila.gear.host/">Ilaria Cuccu</a>
+  <li><a href="http://wordpressrob.gear.host/">Roberta Fadda</a></li>
+  <li><a href="http://wordpressc.gear.host/">Cristiana Foddis</a></li>
+  <li><a href="http://wordpressmura.gear.host/">Silvia Mura</a></li>
+  <li><a href="http://wordpressmarc.gear.host/">Marco Murru</a></li>
+  <li><a href="http://wordpressb.gear.host/">Bruna Musu</a></li>
 </ul>
 
 
